@@ -1,0 +1,9 @@
+1st Refinement :
+*Convert from alien language to neutral
+*Convert from neutral language to source language
+
+2nd Refinement : 
+
+*Convert from alien language to neutral by counting number of chars in that language and from it , Use it to convert it back to decimal number
+*Convert from decimal language to neutral language , by divide it by the number of chars in that language and grab the remainder and use it as a index into alien language to get the symbol
+ Reverse the language
